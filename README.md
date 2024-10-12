@@ -1,4 +1,4 @@
-![logo](https://github.com/MDSAKLENRAZA/Md-Saklen-Raza/blob/main/image-1280x640.jpg)
+![logo](https://github.com/MDSAKLENRAZA/mdsaklenraza/blob/main/images.jpg)
 <h1 align="center">Hi 👋, I'm Saklen</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
