@@ -1,4 +1,6 @@
-![logo](https://github.com/MDSAKLENRAZA/mdsaklenraza/blob/main/images.jpg)
+<p align=”center”>
+<img width=”200" height=”200" src="https://github.com/MDSAKLENRAZA/mdsaklenraza/blob/main/images.jpg" alt=”my banner”>
+</p>
 <h1 align="center">Hi 👋, I'm Saklen</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
